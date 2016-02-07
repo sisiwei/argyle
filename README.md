@@ -13,12 +13,12 @@ To-do:
 
 ### Included in this kit:
 
-- PDF of User Profiles
-- PDF of Emoji Cards
-- PDF of Comment Cards
-- PDF of Badges
-- PDF of "How to Play"
-- PDF of Status Overlays
+- User Profiles
+- Emoji Cards
+- Comment Cards
+- Badges
+- "How to Play"
+- Status Overlays
 	- Take time off notice
 	- Please register notice
 	- Hidden from view notice
