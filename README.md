@@ -34,7 +34,7 @@ To-do:
 - Post-its, small-sized
 - Sharpies
 
-### First create
+### First Create
 
 - A prompt
 	- A headline or topic that your community would be interested in talking about. We recommend picking a prompt that takes a stance, as opposed to something that's open-ended. This allows people to actively agree or disagree.
@@ -58,6 +58,7 @@ To-do:
 4. On the side, tape up a copy of "How to Play" and your community guidelines.
 
 5. On a table or chair next to the wall, place:
+	- One stack of user profiles
 	- One stack of comment cards
 	- One stack for each type of emoji card, pre-cut
 	- A lot of tape
