@@ -1,15 +1,16 @@
 # How to Play Argyle
 
-Argyle is a new dynamic system that uses experience points and leveling up to encourage meaningful contributions. Use the tools at your disposal, including your strategic wit, to shape the conversation into one you’ll want to read.
+Argyle uses experience points and leveling up to encourage meaningful discussion. Use the tools at your disposal, including your strategic wit, to shape this wall into something you’ll want to read and engage with.
 
-Fill out your profile and return that to ______________________.
+First, fill out a user profile and return it to ______________________.
 
-- The community will reward meaningful contributions with helpful, thoughtful, and positive stickers - these grant experience points (XP) to the author. Get enough XP and you’ll level up. Eventually, you may even unlock special badges and community swag.
+Second, grab a comment card and write your first post. When you’re done, tape it to the wall.
 
-- The community is more likely to reward wall posts you ruminate on. Take some time before you post.
+Third, see a comment that’s thoughtful, positive, or helpful? Tape the relevant emoji card onto the comment. Same if you feel a comment is offensive, off-topic or reflects a poor attitude.
 
-- The community can punish toxic contributions - using off-topic, offensive, and poor attitude stickers will lower a contribution hit points (HP)! When HP reaches zero, the contribution is knocked out and hidden from view.
+Throughout the event, users will gain experience points (XP) if the community has rewarded their meaningful contributions with positive emojis. Get enough XP and users will level up and unlock special badges.
 
-- Visit each other’s profiles to see their badges, featured comments, and connect further.
+The community can also punish toxic contributions using the off-topic, offensive, and poor attitude emoji cards to lower a specific comment’s hit points (HP)! When HP reaches zero, the contribution is knocked out and hidden from view.
 
-<i>Argyle, as a new system, is experiencing technical disruptions. XP and HP updates are currently lagging.</i>
+Visit the  ______________________ to see each other’s profiles and badges.
+
