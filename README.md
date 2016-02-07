@@ -14,7 +14,7 @@ To-do:
 ### Included in this kit:
 
 - PDF of User Profiles
-- PDF of Emoticon Reactions
+- PDF of Emoji Cards
 - PDF of Comment Cards
 - PDF of Badges
 - PDF of Player Instructions
@@ -28,12 +28,13 @@ To-do:
 
 - A large open wall in a central location
 	- If you have a white board wall, great! If not, you'll need paper and tape to affix items to the wall.
-- Normal tape
+- Normal tape (LOTS)
 - Masking tape (optional)
 - Post-its, normal-sized
 - Post-its, small-sized
+- Sharpies
 
-### First Create
+### First create
 
 - A prompt
 	- This should be a should headline or topic that people at your event will have an opinion about. We recommend picking a prompt that takes a stance, as opposed to something that's open-ended. 
@@ -42,8 +43,8 @@ To-do:
 - An article (optional)
 	- Since we were originally testing how readers would respond to a news article, we also included a printed version of an article next to our prompt. Doing so also gave participants more points to disucss and debate.
 
-- 
-
+- Community guidelines (optional)
+	- Depending on your community, you may want to create your own community guidelines for how to interact with the wall. For example, you could ban curse words. Other communities will already have Codes of Conduct you could re-iterate.
 
 
 ### Assembly
@@ -52,7 +53,15 @@ To-do:
 
 2. Beneath the prompt, draw a line (or draw the line on a long piece of mask tape). This will separate your prompt from the discussion.
 
-3. 
+3. Create a few sample comments and post them. This will give participants an idea of how they can interact with the wall.
+
+4. On the side, tape up a copy of "How to Play" and your community guidelines.
+
+5. On a table or chair next to the wall, place:
+	- One stack of comment cards
+	- One stack for each type of emoji card, pre-cut
+	- A lot of tape
+	- Sharpies
 
 
 
