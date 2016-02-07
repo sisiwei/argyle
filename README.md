@@ -26,7 +26,7 @@ To-do:
 
 ### What you'll need:
 
-- A large open wall
+- A large open wall in a central location
 	- If you have a white board wall, great! If not, you'll need paper and tape to affix items to the wall.
 - Normal tape
 - Masking tape (optional)
@@ -48,7 +48,7 @@ To-do:
 
 ### Assembly
 
-1. Write your prompt at the top-most area of the wall, or write it on multiple sheets of paper and tape it to the wall. The goal here is to create something that can be read from a distance.
+1. Write your prompt at the top-most area of the wall, or write it on multiple sheets of paper and tape it to the wall. Participants should be able to read your prompt from a distance.
 
 2. Beneath the prompt, draw a line (or draw the line on a long piece of mask tape). This will separate your prompt from the discussion.
 
