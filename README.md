@@ -1,6 +1,12 @@
 # Argyle
 Description of Argyle here.
 
+## What's the goal?
+
+
+
+## Running Argyle yourself
+
 To-do:
 - prescribe a certain number of players
 - tell people how to scale
@@ -27,4 +33,39 @@ To-do:
 - Post-its, normal-sized
 - Post-its, small-sized
 
-### 
+### First Create
+
+- A prompt
+	- Purpose TKTK
+	- Ex: ```Olympics Reject 'Mind Sports' for 2020 
+						No Chess Grandmasters or Pro Games Allowed in Tokyo```
+
+
+### Assembly
+
+
+
+
+
+
+### Rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
