@@ -1,0 +1,544 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura
+FamilyName:Futura
+StyleName:Medium
+MenuName:Futura Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Futura Medium
+WritingScript:Roman
+OutlineFileName:\Futur
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25842
+FileModTime:899787808
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Light
+OutlineFileName:\Futura 1
+ResourceID:14872
+MacStyle:0
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-LightOblique
+OutlineFileName:\Futura 1
+ResourceID:14872
+MacStyle:2
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-LightOblique
+OutlineFileName:\Futura 1
+ResourceID:14871
+MacStyle:0
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Book
+OutlineFileName:\Futura 1
+ResourceID:14870
+MacStyle:0
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Bold
+OutlineFileName:\Futura 1
+ResourceID:14870
+MacStyle:1
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-BookOblique
+OutlineFileName:\Futura 1
+ResourceID:14870
+MacStyle:2
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-BoldOblique
+OutlineFileName:\Futura 1
+ResourceID:14870
+MacStyle:3
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Bold
+OutlineFileName:\Futura 1
+ResourceID:14868
+MacStyle:0
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-BoldOblique
+OutlineFileName:\Futura 1
+ResourceID:14868
+MacStyle:2
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-BookOblique
+OutlineFileName:\Futura 1
+ResourceID:14869
+MacStyle:0
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-BoldOblique
+OutlineFileName:\Futura 1
+ResourceID:14869
+MacStyle:1
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-BoldOblique
+OutlineFileName:\Futura 1
+ResourceID:14867
+MacStyle:0
+FileLength:161967
+FileModTime:899791878
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura
+OutlineFileName:\Futura 2
+ResourceID:14836
+MacStyle:0
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Heavy
+OutlineFileName:\Futura 2
+ResourceID:14836
+MacStyle:1
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Oblique
+OutlineFileName:\Futura 2
+ResourceID:14836
+MacStyle:2
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-HeavyOblique
+OutlineFileName:\Futura 2
+ResourceID:14836
+MacStyle:3
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Heavy
+OutlineFileName:\Futura 2
+ResourceID:14834
+MacStyle:0
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-HeavyOblique
+OutlineFileName:\Futura 2
+ResourceID:14834
+MacStyle:2
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Oblique
+OutlineFileName:\Futura 2
+ResourceID:14835
+MacStyle:0
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-HeavyOblique
+OutlineFileName:\Futura 2
+ResourceID:14835
+MacStyle:1
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-HeavyOblique
+OutlineFileName:\Futura 2
+ResourceID:14833
+MacStyle:0
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-ExtraBold
+OutlineFileName:\Futura 2
+ResourceID:14832
+MacStyle:0
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-ExtraBoldOblique
+OutlineFileName:\Futura 2
+ResourceID:14832
+MacStyle:2
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-ExtraBoldOblique
+OutlineFileName:\Futura 2
+ResourceID:14831
+MacStyle:0
+FileLength:171007
+FileModTime:899787808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedLight
+OutlineFileName:\Futura Condensed
+ResourceID:14830
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedLightOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14830
+MacStyle:2
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedLightOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14829
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-Condensed
+OutlineFileName:\Futura Condensed
+ResourceID:14828
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedBold
+OutlineFileName:\Futura Condensed
+ResourceID:14828
+MacStyle:1
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14828
+MacStyle:2
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedBoldOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14828
+MacStyle:3
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedBold
+OutlineFileName:\Futura Condensed
+ResourceID:14826
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedBoldOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14826
+MacStyle:2
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14827
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedBoldOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14827
+MacStyle:1
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedBoldOblique
+OutlineFileName:\Futura Condensed
+ResourceID:14825
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondensedExtraBold
+OutlineFileName:\Futura Condensed
+ResourceID:14824
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondExtraBoldObl
+OutlineFileName:\Futura Condensed
+ResourceID:14824
+MacStyle:2
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Futura-CondExtraBoldObl
+OutlineFileName:\Futura Condensed
+ResourceID:14823
+MacStyle:0
+FileLength:187371
+FileModTime:899787258
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura-Book
+FamilyName:Futura
+StyleName:Book
+MenuName:Futura Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Futura Book
+WritingScript:Roman
+OutlineFileName:\FuturBoo
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:26074
+FileModTime:899791878
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura-BookOblique
+FamilyName:Futura
+StyleName:Book Oblique
+MenuName:Futura Book
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Futura Book Oblique
+WritingScript:Roman
+OutlineFileName:\FuturBooObl
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:33665
+FileModTime:899791878
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura-CondensedLight
+FamilyName:Futura
+StyleName:Light Condensed
+MenuName:Futura CondensedLight
+StyleBits:0
+WeightClass:300
+WidthClass:3
+AngleClass:0
+FullName:Futura Condensed Light
+WritingScript:Roman
+OutlineFileName:\FuturConLig
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:26598
+FileModTime:899787258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1445291186
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
