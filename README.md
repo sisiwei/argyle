@@ -36,9 +36,10 @@ To-do:
 ### First Create
 
 - A prompt
-	- Purpose TKTK
-	- Ex: ```Olympics Reject 'Mind Sports' for 2020 
-						No Chess Grandmasters or Pro Games Allowed in Tokyo```
+	- This should be a should headline or topic that people at your event will have an opinion about. We recommend picking a prompt that takes a stance, as opposed to something that's open-ended. 
+	- For example, we used `Olympics Reject 'Mind Sports' for 2020` with the subhed `No Chess Grandmasters or Pro Games Allowed in Tokyo`
+
+
 
 
 ### Assembly
