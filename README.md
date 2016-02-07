@@ -17,7 +17,7 @@ To-do:
 - PDF of Emoji Cards
 - PDF of Comment Cards
 - PDF of Badges
-- PDF of Player Instructions
+- PDF of "How to Play"
 - PDF of Status Overlays
 	- Take time off notice
 	- Please register notice
@@ -47,7 +47,7 @@ To-do:
 	- Depending on your community, you may want to create your own community guidelines for how to interact with the wall. For example, you could ban curse words. Other communities will already have Codes of Conduct you could re-iterate.
 
 
-### Assembly
+### Physical Set-up
 
 1. Write your prompt at the top-most area of the wall, or write it on multiple sheets of paper and tape it to the wall. Participants should be able to read your prompt from a distance.
 
@@ -63,13 +63,7 @@ To-do:
 	- A lot of tape
 	- Sharpies
 
-
-
-
-### Rules
-
-
-
+6. Create a small workplace (like a desk) nearby that a team member could use to monitor behavoir.
 
 
 
