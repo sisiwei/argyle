@@ -37,7 +37,7 @@ To-do:
 ### First create
 
 - A prompt
-	- This should be a should headline or topic that people at your event will have an opinion about. We recommend picking a prompt that takes a stance, as opposed to something that's open-ended. 
+	- A headline or topic that your community would be interested in talking about. We recommend picking a prompt that takes a stance, as opposed to something that's open-ended. This allows people to actively agree or disagree.
 	- For example, we used `Olympics Reject 'Mind Sports' for 2020` with the subhed `No Chess Grandmasters or Pro Games Allowed in Tokyo`
 
 - An article (optional)
